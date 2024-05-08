@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: sort1 performs slowly on random lists. But performs Swiftly on sorted lists. With a value of Omega n it should perform accordinigy.
+
+sort2 uses: Merge Sort
+
+How do you know?: Merge sort performs the fastest on random lists. With a value of Omega (n log n) this is characteristic of Merge Sort.
+
+sort3 uses: Selection Sort
+
+How do you know?: Selection sort runs faster on random lists than bubble sort but slower than merge and is characteristic of Selection Sort. With a value of Omega(n^2)

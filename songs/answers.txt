@@ -1,0 +1,12 @@
+The averages for energy, valence, and danceability of the top 100 songs in the 2018 list are shown below.
+Energy (0.65906): The listener indicates a preference for vibrant and fast-paced music by favouring dynamic and fast-paced tracks.
+Valence (0.484443): The listener exhibits an appreciation for the breadth of emotions that can be expressed via music by keeping a balance between upbeat and cheerful songs and those with a sadder or darker tone.
+Danceability (0.71646): The listener appears to favour danceable, rhythmic music, suggesting that they take pleasure in moving to the beat while enjoying a song.
+As a result, the listener's aural aura can be described as lively, emotionally balanced, and dance-focused.
+
+
+Even though averaging gives a general idea of a listener's musical tastes, outliers, mood swings, and song popularity may require it to account for distinctions in taste.
+The impact of a listener's favourite songs or shifts in mood are not taken into consideration by extreme values, which might distort averages.
+To improve on this strategy, we could use time-based studies to account for mood swings, utilize medians rather than averages to reduce the impact of outliers, and use weighted averages based on song play counts to create a more representative Audio Aura.
+A listener's Audio Aura would probably be best characterized by combining these and other techniques.
+
